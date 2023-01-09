@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Duke Venator</h1>
 <h3 align="center">A passionate developer from Aus</h3>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dukevenator" alt="dukevenator" /></a> </p>
 
@@ -14,6 +13,7 @@
 - 💬 Ask me about **Hypermill**
 
 - ⚡ Fun fact **I make things that could end the world**
+- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +25,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dukevenator&show_icons=true&theme=onedark&title_color=4dff6a&text_color=f5f5f5&hide_border=true&locale=en&layout=compact" alt="dukevenator" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dukevenator&show_icons=true&theme=tokyonight&title_color=a676fe&text_color=f2f2f2&bg_color=292929&hide_border=true&locale=en" alt="dukevenator" /></p>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/DukeVenator/DukeVenator/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
