@@ -20,7 +20,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dukevenator&show_icons=true&theme=onedark&title_color=4dff6a&text_color=f5f5f5&hide_border=true&locale=en&layout=compact" alt="dukevenator" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dukevenator&show_icons=true&theme=tokyonight&title_color=a676fe&text_color=f2f2f2&bg_color=292929&hide_border=true&locale=en" alt="dukevenator" /></p>
- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/DukeVenator/DukeVenator/main/Update/Bottom.svg" alt="Github Stats" />
 </p>
