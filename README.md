@@ -27,5 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dukevenator&show_icons=true&theme=tokyonight&title_color=a676fe&text_color=f2f2f2&bg_color=292929&hide_border=true&locale=en" alt="dukevenator" /></p>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/DukeVenator/DukeVenator/Update/svg/Bottom.svg" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/DukeVenator/DukeVenator/Update/Bottom.svg" alt="Github Stats" />
 </p>
