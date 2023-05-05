@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Automation Projects involving AI**
 
-- 🌱 I’m currently learning **Advanced AI automation and Automation for Hypermill**
+- 🌱 I’m currently learning **Advanced AI automation and Automation for top secret software**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DukeVenator](https://github.com/DukeVenator)
 
