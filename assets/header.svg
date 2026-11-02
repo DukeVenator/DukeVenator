@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">Duke Venator</title>
+  <desc id="description">Developer and modder from Australia. A royal purple banner with white lettering, gold trim, and a crowned DV shield framed by laurel branches.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#21132f"/>
+      <stop offset="0.6" stop-color="#140e20"/>
+      <stop offset="1" stop-color="#2b1642"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0.8" y2="1">
+      <stop stop-color="#fae9b5"/>
+      <stop offset="0.5" stop-color="#dcb969"/>
+      <stop offset="1" stop-color="#ab803d"/>
+    </linearGradient>
+    <radialGradient id="crest-glow">
+      <stop stop-color="#7547a1" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#7547a1" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="bounds"><rect width="1200" height="320" rx="16"/></clipPath>
+    <path id="shield" d="M -65 -62 H 65 V 0 C 65 45 35 72 0 88 C -35 72 -65 45 -65 0 Z"/>
+    <g id="laurel" fill="#dcb969" stroke="#dcb969" stroke-width="1.3">
+      <path d="M -31 75 C -93 46 -113 -18 -89 -70" fill="none"/>
+      <path d="M -48 64 Q -72 67 -77 44 Q -54 46 -48 64 Z" stroke="none"/>
+      <path d="M -66 48 Q -91 45 -91 23 Q -69 29 -66 48 Z" stroke="none"/>
+      <path d="M -81 27 Q -104 20 -99 -1 Q -81 8 -81 27 Z" stroke="none"/>
+      <path d="M -90 4 Q -111 -8 -102 -28 Q -86 -14 -90 4 Z" stroke="none"/>
+      <path d="M -93 -20 Q -110 -36 -97 -53 Q -84 -37 -93 -20 Z" stroke="none"/>
+      <path d="M -90 -43 Q -98 -62 -83 -76 Q -75 -58 -90 -43 Z" stroke="none"/>
+    </g>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1200" height="320" fill="url(#background)"/>
+    <ellipse cx="990" cy="160" rx="205" ry="190" fill="url(#crest-glow)"/>
+    <path d="M 790 26 V 294" stroke="#8b65ad" stroke-opacity="0.25"/>
+    <path d="M 802 26 V 294" stroke="#dcb969" stroke-opacity="0.12"/>
+    <rect x="3" y="3" width="1194" height="314" rx="14" fill="none" stroke="#7843a8" stroke-width="6"/>
+    <rect x="12" y="12" width="1176" height="296" rx="8" fill="none" stroke="#dcb969" stroke-opacity="0.7"/>
+    <path d="M 27 49 V 27 H 49 M 1151 27 H 1173 V 49 M 27 271 V 293 H 49 M 1151 293 H 1173 V 271" fill="none" stroke="url(#gold)" stroke-width="2"/>
+    <path d="M 57 60 H 84" stroke="#dcb969" stroke-width="3"/>
+    <text x="98" y="65" fill="#e7ca87" font-family="Consolas, monospace" font-size="15" letter-spacing="3">DUKEVENATOR / GITHUB</text>
+    <text x="53" y="158" fill="#fcfaf6" font-family="Georgia, 'Times New Roman', serif" font-size="67" font-weight="700" letter-spacing="1">DUKE VENATOR</text>
+    <text x="57" y="202" fill="#e1d7ea" font-family="Segoe UI, Arial, sans-serif" font-size="23">Developer. Modder. Down the AI rabbit hole.</text>
+    <path d="M 58 229 H 113 M 121 225 L 125 229 L 121 233 L 117 229 Z M 133 229 H 188" fill="#dcb969" stroke="#dcb969" stroke-width="0.8"/>
+    <text x="57" y="270" fill="#e7ca87" font-family="Consolas, monospace" font-size="15" letter-spacing="2">AUTOMATION / GAME MODS / AUSTRALIA</text>
+    <g transform="translate(991 160)">
+      <use href="#laurel" opacity="0.8"/>
+      <use href="#laurel" transform="scale(-1 1)" opacity="0.8"/>
+      <use href="#shield" fill="#26153b" stroke="url(#gold)" stroke-width="2.5"/>
+      <use href="#shield" transform="translate(0 5) scale(0.86 0.87)" fill="none" stroke="#a37bc2" stroke-width="1"/>
+      <path d="M -55 -52 H -3 V 64 C -32 48 -55 24 -55 -1 Z" fill="#513073" opacity="0.48"/>
+      <text x="-2" y="22" text-anchor="middle" fill="#fcfaf6" font-family="Georgia, 'Times New Roman', serif" font-size="49" letter-spacing="-3">DV</text>
+      <path d="M -36 -78 L -43 -106 L -20 -94 L 0 -119 L 20 -94 L 43 -106 L 36 -78 Z" fill="url(#gold)" stroke="#f5dda0" stroke-width="1" stroke-linejoin="round"/>
+      <path d="M -35 -72 H 35" stroke="#dcb969" stroke-width="4"/>
+      <path d="M 0 -104 L 5 -96 L 0 -88 L -5 -96 Z" fill="#71439c"/>
+      <circle cx="-43" cy="-107" r="3" fill="#f5dda0"/>
+      <circle cy="-120" r="3" fill="#f5dda0"/>
+      <circle cx="43" cy="-107" r="3" fill="#f5dda0"/>
+      <path d="M -25 106 H -7 M 7 106 H 25 M 0 101 L 5 106 L 0 111 L -5 106 Z" fill="#dcb969" stroke="#dcb969" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
